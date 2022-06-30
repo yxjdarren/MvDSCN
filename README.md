@@ -48,6 +48,3 @@ You re-train autoencoder from scarath:
 ```
 python main.py
 ```
-
-# License
-MIT License
