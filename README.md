@@ -15,7 +15,7 @@ the non-linear and high-order inter-view relations.
 As different views share the same label space, the self-representation matrices of each view are aligned to the common one by a universality regularization.
 
 
-![MvDSCN](MvDSCN/FrameworkMvDSCN.png)
+![MvDSCN](/FrameworkMvDSCN.png)
 
 
 # Requirements
