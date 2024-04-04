@@ -2,7 +2,7 @@
 :game_die: Tensorflow Repo for "Multi-view Deep Subspace Clustering Networks"
 
 
-The code repository for "Multi-View Deep Subspace Clustering Networks" (the paper has been submitted to IEEE TCYB) in Tensorflow.
+The code repository for "Multi-View Deep Subspace Clustering Networks" (the paper has been accepted by T-CYB) in Tensorflow.
 
 # Overview
 
